@@ -2,4 +2,4 @@
 
 Built using Ionic React.
 
-Find out more on [my website](https://www.oliveriyer.com/freetown-city-council-find-me-in-freetown/).
+
