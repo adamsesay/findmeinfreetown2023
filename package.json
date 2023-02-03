@@ -2,6 +2,13 @@
   "name": "find-me-ft",
   "version": "0.0.1",
   "public": true,
+   "engines": {
+            "node": "16.4.0"
+        },
+
+        .
+        .
+        .
   "dependencies": {
     "@capacitor/android": "^1.2.1",
     "@capacitor/core": "1.2.1",
